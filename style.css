@@ -152,4 +152,18 @@
     font-size: 16px;
 
 }
+/* Footer section style */
+footer{
+    background: rgb(47, 46, 46);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.footer-img{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
 
