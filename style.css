@@ -134,4 +134,22 @@
     gap: 20px;
     padding-left: 40px;
 }
+/* Early Access section style */
+.early-access{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    background-color:  rgba(247, 246, 242, 1);
+    padding: 80px 120px;
+    margin: 60px;
+    border-radius: 16px;
+}
+.early-access p{
+    color: gray;
+    font-size: 16px;
+
+}
 
