@@ -167,3 +167,15 @@ footer{
     padding: 50px 100px;
 }
 
+
+/* button color and bg */
+.btn-color{
+    color: white;
+    background-color: #30b868;
+}
+
+.hover-button:hover {
+    background-color: aqua;
+    color: black;
+}
+
