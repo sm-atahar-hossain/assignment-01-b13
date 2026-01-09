@@ -117,4 +117,21 @@
     gap: 10px;
     padding: 0px 60px;
 }
+/* Second brain Structure  style*/
+.structure2{
+    display: flex;
+    margin: 60px;
+    justify-content: space-around;
+}
+.structure2 #img-div{
+    width: fit-content;
+}
+.structure2 #solution{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 40px;
+}
 
