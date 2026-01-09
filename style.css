@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inter";
+}
+/* Navber Style  */
+.nav-bar{
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 60px;
+}
+.nav-start{
+    width:15%;
+}
+.nav-center{
+    width: auto;
+}
+.nav-center ul{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+}
+.nav-center li{
+    list-style: none;
+}
+.nav-center a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.nav-end{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-end button{
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    padding: 10px 20px;
+    background: #30B868;
+    border-style: none;
+    border-radius: 8px;
+}
